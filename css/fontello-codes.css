@@ -1,0 +1,24 @@
+
+.icon-up:before { content: '\e800'; } /* '' */
+.icon-down-dir:before { content: '\e801'; } /* '' */
+.icon-book:before { content: '\e802'; } /* '' */
+.icon-cog-outline:before { content: '\e803'; } /* '' */
+.icon-phone:before { content: '\e804'; } /* '' */
+.icon-location:before { content: '\e805'; } /* '' */
+.icon-cloud-thunder:before { content: '\e806'; } /* '' */
+.icon-globe:before { content: '\e807'; } /* '' */
+.icon-network:before { content: '\e808'; } /* '' */
+.icon-monitor:before { content: '\e809'; } /* '' */
+.icon-mobile:before { content: '\e80a'; } /* '' */
+.icon-download:before { content: '\f02e'; } /* '' */
+.icon-menu:before { content: '\f0c9'; } /* '' */
+.icon-mail-alt:before { content: '\f0e0'; } /* '' */
+.icon-angle-double-right:before { content: '\f101'; } /* '' */
+.icon-laptop:before { content: '\f109'; } /* '' */
+.icon-code:before { content: '\f121'; } /* '' */
+.icon-instagram:before { content: '\f16d'; } /* '' */
+.icon-right:before { content: '\f178'; } /* '' */
+.icon-copyright:before { content: '\f1f9'; } /* '' */
+.icon-github-squared:before { content: '\f300'; } /* '' */
+.icon-linkedin-squared:before { content: '\f30c'; } /* '' */
+.icon-codepen:before { content: '\f32c'; } /* '' */

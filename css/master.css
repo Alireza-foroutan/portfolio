@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+@font-face {
+    font-family: SplineSans;
+    src: url(../font/SplineSans-VariableFont_wght.ttf) format("opentype");
+}
